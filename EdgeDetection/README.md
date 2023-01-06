@@ -1,5 +1,7 @@
 # Canny Edge Detection Algorithm
 
+Edge detection algorithm with multiple steps done in pure numpy, see https://en.wikipedia.org/wiki/Canny_edge_detector for more on the algorithm.
+
 
 Custom parameters:
 ```
@@ -17,3 +19,9 @@ python3 EdgeDetection.py p 0 0 (str: image path/s)+
 ### Output:
 
 Results are saved as pngs called ```[filename]-[epoch].png``` in new file called ```ed-[epoch]```
+
+
+https://github.com/AlephEleven/Computer-Vision/tree/main/EdgeDetection/results
+
+![[plane output](https://github.com/AlephEleven/Computer-Vision/tree/main/EdgeDetection/results/plane.png?raw=true)
+
