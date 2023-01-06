@@ -20,8 +20,3 @@ python3 EdgeDetection.py p 0 0 (str: image path/s)+
 
 Results are saved as pngs called ```[filename]-[epoch].png``` in new file called ```ed-[epoch]```
 
-
-https://github.com/AlephEleven/Computer-Vision/tree/main/EdgeDetection/results
-
-![plane output](https://github.com/AlephEleven/Computer-Vision/tree/main/EdgeDetection/results/plane.png?raw=true)
-
