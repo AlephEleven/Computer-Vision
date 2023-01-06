@@ -23,5 +23,5 @@ Results are saved as pngs called ```[filename]-[epoch].png``` in new file called
 
 https://github.com/AlephEleven/Computer-Vision/tree/main/EdgeDetection/results
 
-![[plane output](https://github.com/AlephEleven/Computer-Vision/tree/main/EdgeDetection/results/plane.png?raw=true)
+![plane output](https://github.com/AlephEleven/Computer-Vision/tree/main/EdgeDetection/results/plane.png?raw=true)
 
