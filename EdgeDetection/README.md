@@ -1,6 +1,6 @@
 # Canny Edge Detection Algorithm
 
-Edge detection algorithm with multiple steps done in pure numpy, see ![Canny Edge Detector](https://en.wikipedia.org/wiki/Canny_edge_detector) for more on the algorithm.
+Edge detection algorithm with multiple steps done in pure numpy, see [Canny Edge Detector](https://en.wikipedia.org/wiki/Canny_edge_detector) for more on the algorithm.
 
 
 Custom parameters:
